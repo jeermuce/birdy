@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="460mm"
+   height="460mm"
+   viewBox="0 0 460 460"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Razorbill_head.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="razorbill_head.png"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.18641099"
+     inkscape:cx="1198.9636"
+     inkscape:cy="844.90727"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="g1"
+     transform="matrix(6.5667415,0,0,6.5667415,6.6477664e-4,-34.94066)">
+    <path
+       d="m 60.914111,58.997949 c 3.163236,-4.02909 6.167207,-7.282016 9.085751,-10.203511 V 18.119307 c -1.430067,0.06025 -2.862407,0.09417 -4.28656,0.223243 -3.91933,0.35522 -7.848916,0.70711 -11.723316,1.39733 -4.93166,0.87858 -11.584926,2.138325 -14.618746,3.484025 -3.03383,1.3457 -3.653408,1.750815 -5.741768,2.530595 -2.08837,0.77978 -3.845085,1.29953 -6.325195,1.91978 -2.48012,0.62025 -7.500195,1.620199 -9.672795,1.986959 -2.1726,0.36675 -3.986945,0.36034 -5.951575,0.72657 -1.44583,0.26952 -2.9421348,0.463791 -4.2777748,1.079521 -1.8598,0.85738 -3.8659104,2.096428 -5.0115804,3.553788 -1.14567,1.45737 -1.42777459,2.688818 -1.80557459,3.884518 -0.37781,1.19569 -0.48975666,2.029069 -0.52916666,2.943489 -0.0394,0.91441 0.1317749,2.002979 0.1317749,2.002979 0,0 0.051385,-0.234449 0.44958496,-0.343649 0.71236999,0.12389 2.32649749,-0.119794 3.84937749,0.118856 l 2.5466145,0.876432 c 0,0 1.3961502,0.217144 2.1001302,0.264584 1.0639004,0.0717 2.1355614,-0.05174 3.1987714,0.02945 1.51167,0.11545 3.076764,0.116606 4.501534,0.649056 1.43261,0.53538 2.923442,0.902345 4.401282,1.296045 1.91274,0.50956 3.870761,0.843148 5.776391,1.378728 3.27999,0.92184 6.473514,2.127185 9.722404,3.153295 6.22486,1.96603 12.527051,3.688148 18.719271,5.754688 1.835496,0.612558 3.644694,1.301295 5.461165,1.968355 z"
+       style="display:inline;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel"
+       id="path32"
+       inkscape:label="black_body" />
+    <path
+       d="m 60.914111,58.997949 c 0.07565,0.02778 0.151699,0.05446 0.227377,0.08217 2.976223,1.089491 5.847137,2.535487 8.858374,3.499011 V 48.794438 c -2.918544,2.921495 -5.922515,6.174421 -9.085751,10.203511 z"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.0906858;stroke-linecap:round;stroke-linejoin:bevel"
+       id="path33"
+       inkscape:label="white_underside" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.397583,29.925122 c -1.64875,1.7806 -6.17624,0.86416 -12.12039,1.03364 -3.18204,0.0907 -5.12456,6e-5 -9.54472,1.20397 3.0273,-2.28012 6.55044,-2.25515 9.87138,-2.39661 3.85152,-0.16405 9.21195,0.99764 11.79373,0.159 z"
+       id="path4"
+       sodipodi:nodetypes="cscsc"
+       inkscape:label="white_eye_highlight" />
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.129923,33.645652 c 0.25532,-0.57727 0.69322,-1.07833 1.1779,-1.48269 0.97893,-0.81672 3.37253,-1.80391 3.37253,-1.80391 0,0 -1.77694,1.39588 -2.42995,2.3 -0.50967,0.70566 -0.87753,1.5253 -1.10795,2.36471 -0.47304,1.7233 -0.45548,3.54982 -0.52266,5.33561 -0.0527,1.40158 0.0915,3.40065 0.0944,4.20665 -0.84228,-0.0818 -0.64678,-0.0517 -1.34848,-0.28946 -0.20622,-1.32214 -0.20882,-3.66497 -0.0734,-5.49018 0.12848,-1.73141 0.13528,-3.55293 0.83754,-5.14073 z"
+       id="path2"
+       sodipodi:nodetypes="aacaaaccaa"
+       inkscape:label="white_beak_highlight" />
+  </g>
+</svg>
