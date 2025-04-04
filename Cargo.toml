@@ -8,17 +8,17 @@ edition = "2024"
 bevy = "0.15.2"
 log = { version = "*", features = ["max_level_debug", "release_max_level_warn"] }
 bevy_dylib = { version = "0.15.0-rc.3" }
- winit = { version = "0.30.9", features = ["wayland"] }
+winit = { version = "0.30.9", features = ["wayland"] }
 rand = { version = "0.9.0", features = ["thread_rng"] }
 anyhow = "1.0.95"
 
 
+[lib]
+crate-type = ["cdylib"]
+path = "src/lib.rs"  # Specify the path to your library code
 
-[profile.dev]
-codegen-backend = "cranelift"
+[[bin]]
+name = "birdy"
+path = "src/main.rs"  # Specify the path to your binary code
 
-
-[profile.dev.package."*"]
-codegen-backend = "llvm"
-opt-level = 3
 
