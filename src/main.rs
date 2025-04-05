@@ -32,7 +32,7 @@ struct GameManager {
     pub pipe_image: Handle<Image>,
     pub window_dimensions: Vec2,
 }
-
+#[bevy_main]
 fn main() {
     let mut app = App::new();
 

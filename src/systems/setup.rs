@@ -1,4 +1,5 @@
 use crate::{systems::obstacles::spawn_obstacles, BIRD_IMAGE_BYTES};
+
 use crate::{Birdy, GameManager, PIPE_IMAGE_BYTES, PIXEL_RATIO};
 use anyhow::{Error, Result};
 use bevy::asset::RenderAssetUsages;
