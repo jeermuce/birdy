@@ -5,16 +5,7 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
-bevy = { version = "0.15.3", default-features = false, features = [
-    "android-native-activity",
-    "bevy_asset",
-    "bevy_sprite",
-    "bevy_render",
-    "bevy_core_pipeline",
-    "bevy_winit",
-    "bevy_window",
-    "bevy_image",
-] }
+bevy = { version = "0.15.3", default-features = false, features = ["android-native-activity", "bevy_asset", "bevy_sprite", "bevy_render", "bevy_core_pipeline", "bevy_winit", "bevy_window", "bevy_image", "png"] }
 log = { version = "0.4.27", features = [
     "max_level_debug",
     "release_max_level_warn",
